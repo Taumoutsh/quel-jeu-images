@@ -152,6 +152,7 @@
 "map-sptsot.jpg": "{\"url\": \"https://static.wikia.nocookie.net/southpark/images/f/fc/South_Park_The_Stick_of_Truth_full_map.png/revision/latest?cb=20220404182554\"}",
 "map-lcu.jpg": "{\"url\": \"https://static.wikia.nocookie.net/legocityundercover/images/8/80/Lego_City_Map_1.jpg/revision/latest?cb=20251026132757\"}",
 "map-ow.jpg": "{\"crop\": [0, 0.1, 1, 0.84], \"url\": \"https://static.wikia.nocookie.net/outerwilds_gamepedia/images/d/dd/Solar_system_map.png/revision/latest?cb=20210627234529\"}",
+"map-gta6.jpg": "{\"crop\": [0.0323, 0.0236, 0.9677, 0.975], \"url\": \"https://static.wikia.nocookie.net/gtawiki/images/a/ad/StateofLeonida-GTAVI-OfficialMap.jpg/revision/latest?cb=20261120103521\"}",
 "botw-hyrule-field-1.jpg": "{\"url\": \"https://i.ibb.co/Jz1db1T/1.png\"}",
 "botw-hyrule-field-2.jpg": "{\"url\": \"https://i.ibb.co/PNJXQD7/2.png\"}",
 "botw-hyrule-field-3.jpg": "{\"url\": \"https://i.ibb.co/Lt4WML2/3.png\"}",
@@ -1673,5 +1674,11 @@
 "amongus-administration.jpg": "{\"url\": \"https://static.wikia.nocookie.net/among-us-wiki/images/0/00/3D_Admin_Room.png/revision/latest?cb=20250607042056\"}",
 "amongus-o2.jpg": "{\"url\": \"https://static.wikia.nocookie.net/among-us-wiki/images/6/6e/3D_O2_Room.png/revision/latest?cb=20250607194610\"}",
 "dd1-greatwall.jpg": "{\"url\": \"https://static.wikia.nocookie.net/dragonsdogma/images/2/2e/Greatwall_Encampment.png/revision/latest?cb=20121004115128\"}",
-"apexsp-prowler-den.jpg": "{\"url\": \"https://static.wikia.nocookie.net/apexlegends_gamepedia_en/images/6/64/S11_stormpoint_prowlerdens.jpg/revision/latest?cb=20211028182632\"}"
+"apexsp-prowler-den.jpg": "{\"url\": \"https://static.wikia.nocookie.net/apexlegends_gamepedia_en/images/6/64/S11_stormpoint_prowlerdens.jpg/revision/latest?cb=20211028182632\"}",
+"gta6-port-gellhorn-starlet-motel.jpg": "{\"url\": \"https://static.wikia.nocookie.net/gtawiki/images/0/0d/OfficialScreenshots-GTAVI-PromotionalWebsite-PortGellhorn-SS1.jpg/revision/latest?cb=20250506164248\"}",
+"gta6-downtown-sahara-arena.jpg": "{\"url\": \"https://static.wikia.nocookie.net/gtawiki/images/f/fa/OfficialScreenshots-GTAVI-PromotionalWebsite-ViceCity-SS8.jpg/revision/latest?cb=20250506164301\"}",
+"gta6-watson-bay.jpg": "{\"url\": \"https://static.wikia.nocookie.net/gtawiki/images/2/2c/OfficialScreenshots-GTAVI-PromotionalWebsite-Grassrivers-SS2.jpg/revision/latest?cb=20250506164228\"}",
+"gta6-key-lento-rusty-anchor.jpg": "{\"url\": \"https://static.wikia.nocookie.net/gtawiki/images/0/0c/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS3.jpg/revision/latest?cb=20250506164234\"}",
+"gta6-ambrosia.jpg": "{\"url\": \"https://static.wikia.nocookie.net/gtawiki/images/4/40/OfficialScreenshots-GTAVI-PromotionalWebsite-Ambrosia-SS1.jpg/revision/latest?cb=20250506164219\"}",
+"gta6-vice-beach-hotel-valetta.jpg": "{\"url\": \"https://static.wikia.nocookie.net/gtawiki/images/e/e6/OfficialScreenshots-GTAVI-PromotionalWebsite-ViceCity-SS3.jpg/revision/latest?cb=20250506164255\"}"
 }
