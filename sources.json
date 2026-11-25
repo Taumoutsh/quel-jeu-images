@@ -153,6 +153,7 @@
 "map-lcu.jpg": "{\"url\": \"https://static.wikia.nocookie.net/legocityundercover/images/8/80/Lego_City_Map_1.jpg/revision/latest?cb=20251026132757\"}",
 "map-ow.jpg": "{\"crop\": [0, 0.1, 1, 0.84], \"url\": \"https://static.wikia.nocookie.net/outerwilds_gamepedia/images/d/dd/Solar_system_map.png/revision/latest?cb=20210627234529\"}",
 "map-gta6.jpg": "{\"crop\": [0.0323, 0.0236, 0.9677, 0.975], \"url\": \"https://static.wikia.nocookie.net/gtawiki/images/a/ad/StateofLeonida-GTAVI-OfficialMap.jpg/revision/latest?cb=20261120103521\"}",
+"map-path2.jpg": "{\"url\": \"https://static.wikia.nocookie.net/pathologic_gamepedia/images/c/c9/Town_Map_Location_Labels.png/revision/latest?cb=20200309161128\"}",
 "botw-hyrule-field-1.jpg": "{\"url\": \"https://i.ibb.co/Jz1db1T/1.png\"}",
 "botw-hyrule-field-2.jpg": "{\"url\": \"https://i.ibb.co/PNJXQD7/2.png\"}",
 "botw-hyrule-field-3.jpg": "{\"url\": \"https://i.ibb.co/Lt4WML2/3.png\"}",
@@ -1777,5 +1778,12 @@
 "stray-apartment-complex.jpg": "{\"url\": \"https://static.wikia.nocookie.net/stray/images/0/0a/ApartmentComplexAtriumt.jpg/revision/latest?cb=20220825051328\"}",
 "stray-dufer-bar.jpg": "{\"url\": \"https://static.wikia.nocookie.net/stray/images/6/62/Dufer_Bar.jpg/revision/latest?cb=20220820075953\"}",
 "stray-spirit-laundry.jpg": "{\"url\": \"https://static.wikia.nocookie.net/stray/images/f/fd/Spirit_Laundry.jpg/revision/latest?cb=20220725193452\"}",
-"stray-midtown-elevator.jpg": "{\"url\": \"https://static.wikia.nocookie.net/stray/images/c/c8/Midtown_elevator_1.png/revision/latest?cb=20221111100530\"}"
+"stray-midtown-elevator.jpg": "{\"url\": \"https://static.wikia.nocookie.net/stray/images/c/c8/Midtown_elevator_1.png/revision/latest?cb=20221111100530\"}",
+"path2-theatre.jpg": "{\"url\": \"https://static.wikia.nocookie.net/pathologic_gamepedia/images/4/4d/TheatreExteriorFront.png/revision/latest?cb=20200311194122\"}",
+"path2-cathedral.jpg": "{\"url\": \"https://static.wikia.nocookie.net/pathologic_gamepedia/images/b/b8/CathedralExteriorp2.png/revision/latest?cb=20200509121336\"}",
+"path2-nutshell.jpg": "{\"url\": \"https://static.wikia.nocookie.net/pathologic_gamepedia/images/d/db/TheNutshell.png/revision/latest?cb=20200302135053\"}",
+"path2-townhall.jpg": "{\"url\": \"https://static.wikia.nocookie.net/pathologic_gamepedia/images/e/e7/TownHallExterior.png/revision/latest?cb=20200308132756\"}",
+"path2-aspity.jpg": "{\"url\": \"https://static.wikia.nocookie.net/pathologic_gamepedia/images/4/44/AspityHospiceExterior.png/revision/latest?cb=20200314144133\"}",
+"path2-lair.jpg": "{\"url\": \"https://static.wikia.nocookie.net/pathologic_gamepedia/images/1/11/LairExterior1.png/revision/latest?cb=20200406183531\"}",
+"path2-shekhen.jpg": "{\"url\": \"https://static.wikia.nocookie.net/pathologic_gamepedia/images/1/18/Shekhen1.jpg/revision/latest?cb=20200315151959\"}"
 }
